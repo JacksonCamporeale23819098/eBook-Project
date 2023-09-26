@@ -533,7 +533,7 @@ GameObject:
   - component: {fileID: 853381237}
   - component: {fileID: 853381236}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: Home Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -719,7 +719,7 @@ GameObject:
   - component: {fileID: 987037971}
   - component: {fileID: 987037970}
   m_Layer: 5
-  m_Name: Canvas (1)
+  m_Name: Page 2 Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
