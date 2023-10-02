@@ -624,7 +624,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1230347111}
   m_LocalRotation: {x: -0, y: -0, z: 0.0014764889, w: 0.999999}
-  m_LocalPosition: {x: 0, y: 0, z: -3099.4404}
+  m_LocalPosition: {x: 0, y: 0, z: 6.540283}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -634,7 +634,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.169}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -158.25583, y: -105.79057}
+  m_AnchoredPosition: {x: -158.25583, y: -216.45163}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1230347113
@@ -975,7 +975,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1614776761}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -71.29394}
+  m_LocalPosition: {x: 0, y: 0, z: 0.54016113}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1007,27 +1007,30 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Beneath the waves where corals sway,
+  m_text: 'Innovations in aquaculture''s embrace,
 
-    A world of wonder in vibrant
-    array.
+    Breeding corals in a delicate
+    space.
 
-    Designing for this environment, you see,
+    Reviving the reefs, their beauty to restore,
 
-    Can blend profit and
-    sustainability.
+    A sustainable path
+    that we can explore.
 
 
 
-    In coral reefs, life''s colours bloom,
 
-    A delicate
-    balance in nature''s room.
 
-    With care and thought, we can create,
+    With renewable energy, a power shift,
 
-    A
-    future where profits and reefs correlate.
+    Reducing
+    the harm, giving reefs a lift.
+
+    Clean energy for all who reside,
+
+    Profitable
+    and green, with the ocean as our guide.
+
 
 '
   m_isRightToLeft: 0
@@ -1354,7 +1357,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1721073593}
   m_LocalRotation: {x: -0, y: -0, z: 0.0014764889, w: 0.999999}
-  m_LocalPosition: {x: 0, y: 0, z: -3099.4402}
+  m_LocalPosition: {x: 0, y: 0, z: 6.540283}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1364,7 +1367,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.169}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 158.25583, y: -103.21032}
+  m_AnchoredPosition: {x: 158.25583, y: -213.87137}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1721073595
@@ -1622,7 +1625,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2050624060}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0078, y: 0.0648, z: 0}
+  m_LocalPosition: {x: 0.0078, y: 0.0648, z: 90.30903}
   m_LocalScale: {x: 0.41302326, y: 0.50882, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

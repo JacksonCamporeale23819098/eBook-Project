@@ -200,7 +200,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 94653033}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0009, y: 0.0169, z: 0}
+  m_LocalPosition: {x: -0.0009, y: 0.0169, z: 90.26829}
   m_LocalScale: {x: 0.4390099, y: 0.51561964, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -318,7 +318,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 387745061}
   m_LocalRotation: {x: -0, y: -0, z: 0.0014764889, w: 0.999999}
-  m_LocalPosition: {x: 0, y: 0, z: -3102.8806}
+  m_LocalPosition: {x: 0, y: 0, z: 6.540283}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -907,7 +907,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1218201020}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -71.29394}
+  m_LocalPosition: {x: 0, y: 0, z: 6.5405273}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -939,27 +939,27 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Beneath the waves where corals sway,
+  m_text: 'Eco-tourism can lead the way,
 
-    A world of wonder in vibrant
-    array.
+    Bringing travellers from far and away.
 
-    Designing for this environment, you see,
+    To
+    witness the beauty, to understand,
 
-    Can blend profit and
-    sustainability.
+    That protecting reefs is a profitable
+    plan.
 
+    
 
+    Sustainable fisheries, a vital scheme,
 
-    In coral reefs, life''s colours bloom,
+    Ensure resources
+    remain like a dream.
 
-    A delicate
-    balance in nature''s room.
+    Harvesting wisely, replenishing the seas,
 
-    With care and thought, we can create,
-
-    A
-    future where profits and reefs correlate.
+    Preserving
+    life for generations to seize.
 
 '
   m_isRightToLeft: 0
@@ -1520,7 +1520,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1756829453}
   m_LocalRotation: {x: -0, y: -0, z: 0.0014764889, w: 0.999999}
-  m_LocalPosition: {x: 0, y: 0, z: -3102.8809}
+  m_LocalPosition: {x: 0, y: 0, z: 6.540283}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
