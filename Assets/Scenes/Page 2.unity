@@ -329,7 +329,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -168.57686, y: -113.53137}
-  m_SizeDelta: {x: 160, y: 30}
+  m_SizeDelta: {x: 250, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &387745063
 MonoBehaviour:
@@ -949,12 +949,12 @@ MonoBehaviour:
     That protecting reefs is a profitable
     plan.
 
-    
+
 
     Sustainable fisheries, a vital scheme,
 
-    Ensure resources
-    remain like a dream.
+    Ensure resources remain
+    like a dream.
 
     Harvesting wisely, replenishing the seas,
 
@@ -1531,7 +1531,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 165.1365, y: -113.53134}
-  m_SizeDelta: {x: 160, y: 30}
+  m_SizeDelta: {x: 250, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1756829455
 MonoBehaviour:
