@@ -261,7 +261,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.169}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 306.0306, y: -186.0186}
+  m_AnchoredPosition: {x: 280, y: -185}
   m_SizeDelta: {x: 250, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &150262008
@@ -1153,7 +1153,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 18.0018, y: -12.001207}
+  m_AnchoredPosition: {x: 0, y: 30}
   m_SizeDelta: {x: 493.02, y: 366.53}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1694682941
@@ -1183,15 +1183,15 @@ MonoBehaviour:
 
     Designing for this environment, you see,
 
-    Can blend profit
-    and sustainability.
+    Can blend profit and
+    sustainability.
 
-    
+
 
     In coral reefs, life''s colours bloom,
 
-    A
-    delicate balance in nature''s room.
+    A delicate
+    balance in nature''s room.
 
     With care and thought, we can create,
 
@@ -1312,7 +1312,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.169}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -282.0282, y: -186.01859}
+  m_AnchoredPosition: {x: -280, y: -185}
   m_SizeDelta: {x: 250, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1875836348

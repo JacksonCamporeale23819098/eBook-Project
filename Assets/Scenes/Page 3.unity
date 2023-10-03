@@ -634,7 +634,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.169}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -158.25583, y: -216.45163}
+  m_AnchoredPosition: {x: -280, y: -185}
   m_SizeDelta: {x: 250, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1230347113
@@ -984,7 +984,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 18.0018, y: -12.001207}
+  m_AnchoredPosition: {x: 0, y: 30}
   m_SizeDelta: {x: 493.02, y: 366.53}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1614776763
@@ -1019,8 +1019,6 @@ MonoBehaviour:
 
 
 
-
-
     With renewable energy, a power shift,
 
     Reducing
@@ -1029,10 +1027,7 @@ MonoBehaviour:
     Clean energy for all who reside,
 
     Profitable
-    and green, with the ocean as our guide.
-
-
-'
+    and green, with the ocean as our guide.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1367,7 +1362,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.169}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 158.25583, y: -213.87137}
+  m_AnchoredPosition: {x: 280, y: -185}
   m_SizeDelta: {x: 250, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1721073595
