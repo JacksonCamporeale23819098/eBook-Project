@@ -967,7 +967,9 @@ PlayableDirector:
   m_WrapMode: 2
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
-  m_SceneBindings: []
+  m_SceneBindings:
+  - key: {fileID: -7037947127158349912, guid: f561e4387414451488b37d75c79e6cc4, type: 2}
+    value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &1635006136
@@ -1415,6 +1417,8 @@ GameObject:
   - component: {fileID: 1800773506}
   - component: {fileID: 1800773508}
   - component: {fileID: 1800773507}
+  - component: {fileID: 1800773510}
+  - component: {fileID: 1800773509}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -1439,7 +1443,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 30}
+  m_AnchoredPosition: {x: 0, y: 49.276703}
   m_SizeDelta: {x: 493.02, y: 366.53}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1800773507
@@ -1462,7 +1466,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Credits...
+  m_text: "Designs for a Better Time: Coral Reef Edition\r\nProducer: Jackson Camporeale\r\nDesigner:
+    Jackson Camporeale\r\nArt: Jackson Camporeale\r\nMusic: Thomas Newman\r\nSound
+    Effects: Jackson Camporeale\r\nAnimation: Jackson Camporeale\r\nEngine Platform:
+    Unity\r\nEngine Platform Trouble Shooter: Adam Fletcher\r\nTypography: Unity\r\nFeedback
+    Credits:           \nAdam Fletcher\r\nChloe Osborne\r\nGiona Mendicino\r\nTom
+    Baldwin\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
   m_sharedMaterial: {fileID: 2147374, guid: 0161d805a3764c089bef00bfe00793f5, type: 2}
@@ -1539,6 +1548,45 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1800773505}
   m_CullTransparentMesh: 1
+--- !u!95 &1800773509
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1800773505}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+--- !u!320 &1800773510
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1800773505}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: 95e79eca6bcdb5142aca89f5b2abfbf0, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 1
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: 1511479733348369574, guid: 95e79eca6bcdb5142aca89f5b2abfbf0, type: 2}
+    value: {fileID: 1800773509}
+  m_ExposedReferences:
+    m_References: []
 --- !u!1 &2054640555
 GameObject:
   m_ObjectHideFlags: 0
