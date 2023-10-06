@@ -134,6 +134,8 @@ GameObject:
   - component: {fileID: 107300981}
   - component: {fileID: 107300980}
   - component: {fileID: 107300982}
+  - component: {fileID: 107300984}
+  - component: {fileID: 107300983}
   m_Layer: 0
   m_Name: Coral PNG
   m_TagString: Untagged
@@ -304,6 +306,45 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!95 &107300983
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 107300979}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+--- !u!320 &107300984
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 107300979}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: 504c3ecc4e750904ea279b5939d7190e, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: 7388477320466203352, guid: 504c3ecc4e750904ea279b5939d7190e, type: 2}
+    value: {fileID: 107300983}
+  m_ExposedReferences:
+    m_References: []
 --- !u!1 &133631310
 GameObject:
   m_ObjectHideFlags: 0
@@ -550,6 +591,8 @@ GameObject:
   - component: {fileID: 157505702}
   - component: {fileID: 157505701}
   - component: {fileID: 157505703}
+  - component: {fileID: 157505705}
+  - component: {fileID: 157505704}
   m_Layer: 0
   m_Name: Full CFP
   m_TagString: Untagged
@@ -720,6 +763,45 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!95 &157505704
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157505700}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+--- !u!320 &157505705
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157505700}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: 555b635c116e8da45ab8706a686f787e, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: 536537384451369372, guid: 555b635c116e8da45ab8706a686f787e, type: 2}
+    value: {fileID: 157505704}
+  m_ExposedReferences:
+    m_References: []
 --- !u!1 &263788245
 GameObject:
   m_ObjectHideFlags: 0
