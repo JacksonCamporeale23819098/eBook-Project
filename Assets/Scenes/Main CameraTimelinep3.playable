@@ -158,9 +158,9 @@ MonoBehaviour:
   m_Clips:
   - m_Version: 1
     m_Start: 0
-    m_ClipIn: 0
+    m_ClipIn: 9.233333333333334
     m_Asset: {fileID: 2865176745657272652}
-    m_Duration: 76.22530612244898
+    m_Duration: 66.99197278911588
     m_TimeScale: 1
     m_ParentTrack: {fileID: 4542914487833918888}
     m_EaseInDuration: 0
